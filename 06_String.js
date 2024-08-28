@@ -1,4 +1,4 @@
-const name = "Debjeet"
+/*const name = "Debjeet"
 const age = 20
 //console.log(name + age + " male ");
 //console.log(`Hello my name is ${name} and my age is ${age}`);
@@ -16,6 +16,17 @@ const newString = gameName.substring(0,4)
 console.log(newString);
 
 const anotherString = gameName.slice(-7,5)
-console.log(anotherString)
+console.log(anotherString);*/
+
+/*const newStringOne = "     Debjeet    "
+console.log(newStringOne.trim());*/
+
+
+const url = "https://debjeetsarkar54@gmail.com"
+//console.log(url)
+console.log(url.replace('54','36'))
+
+
+
 
 
