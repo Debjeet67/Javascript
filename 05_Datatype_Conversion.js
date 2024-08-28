@@ -25,5 +25,6 @@ console.log(id===anotherId)
 
  //Stack(Primitive), Heap(Non primitive)
 
+
  
 
